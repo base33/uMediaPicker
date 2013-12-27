@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_ed7589c78e6c4e159cbf34d3791212c2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco/css/umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9qcXVlcnkuc2ltcGxlbW9kYWwuMS40LjEuY3VzdG9tLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_0161b1e8e18c472891afc1d8acdad8b4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.ba-bbq.min.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/HistoryManager.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/jquery.simplemodal.1.4.1.custom.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco/Search/quickSearch.js" />
+      <file name="/umbraco/js/guiFunctions.js" />
+      <file name="/umbraco/js/UmbracoSpeechBubbleBackend.js" />
+      <file name="/umbraco/js/language.aspx" />
+      <file name="/umbraco_client/ui/jQueryWresize.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_8a6bbf86a48841638354a9667b7f8ef0.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYXNzd29yZFN0cmVuZ3RoL3Bhc3N3b3Jkc3RyZW5ndGguanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_d250f9bc185f428a88fd4f63f5fa2b5d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/passwordStrength/passwordstrength.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci90aW1lcGlja2VyLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9NYXNrZWRJbnB1dC9qcXVlcnkubWFza2VkaW5wdXQtMS4zLm1pbi5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_21593271f559462c91140546f6e86a2a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/DateTimePicker/timepicker.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/MaskedInput/jquery.maskedinput-1.3.min.js" />
+      <file name="/umbraco_client/DateTimePicker/umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_4baa3559cb244e44b4cc954c9fdc6fc5.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/DateTimePicker/datetimepicker.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_971e0fef7fdb486ebcbc3f6d5bf91cbc.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_f85a703fc285470b8f0929ad226cb715.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_cd429d1af3264dcfa0c952c741901e13.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_781c2697883043ff84b60b7e15fafe4e.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0plZGl0YWJsZS9qcXVlcnkuamVkaXRhYmxlLmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_e42cb6715c3d4556a47109d173cd9d6a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/Jeditable/jquery.jeditable.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_9e2cf4f37dda40b4ae7581b37e2c0d2d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZC5jc3M7L3VtYnJhY29fY2xpZW50L1RyZWUvVGhlbWVzL3VtYnJhY28vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_137895ed279c4df7b32755c4ad34b324.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5kZC5qczsvdW1icmFjb19jbGllbnQvR2VuZXJpY1Byb3BlcnR5L2dlbmVyaWNwcm9wZXJ0eS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL1VtYnJhY29DYXNpbmdSdWxlcy5hc3B4Ow" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_68e0a1e4f8d946dc9ac7280c9cb063fc.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco/js/UmbracoCasingRules.aspx" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvQ3NzL2ZvbGRlcmJyb3dzZXIuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9Db250ZXh0TWVudS9Dc3MvanF1ZXJ5LmNvbnRleHRNZW51LmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_6cb19f37b2d148319afcb5f02925ebbc.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC91aS9iYXNlMi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC91aS9rbm9ja291dC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvanMvZm9sZGVyYnJvd3Nlci5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_4354d4bb114e4386bcc80ddcf020d94b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_8bdeae693350499c8d81d513f556c3e2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_6a2710743d8c42e8852aea60ce25cdd2.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_18b867fa555e4f4ebf6e1b4221ac1ced.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ub2NvbmZsaWN0LWludm9rZS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9VcGxvYWRNZWRpYUltYWdlLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY28vY29udHJvbHMvSW1hZ2VzL0ltYWdlVmlld2VyLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy90aW55X21jZV9wb3B1cC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvbWN0YWJzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy92YWxpZGF0ZS5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZWRpdGFibGVfc2VsZWN0cy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvcGx1Z2lucy91bWJyYWNvaW1nL2pzL2ltYWdlLmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_ea766e0c784741eeb162a7878131ef2b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.noconflict-invoke.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco/controls/Images/UploadMediaImage.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco/controls/Images/ImageViewer.js" />
+      <file name="/umbraco_client/tinymce3/tiny_mce_popup.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/tinymce3/utils/mctabs.js" />
+      <file name="/umbraco_client/tinymce3/utils/form_utils.js" />
+      <file name="/umbraco_client/tinymce3/utils/validate.js" />
+      <file name="/umbraco_client/tinymce3/utils/editable_selects.js" />
+      <file name="/umbraco_client/tinymce3/plugins/umbracoimg/js/image.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_06068673845048768269342727b2f446.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_87823f67c177462dbc7c7c38c2b45795.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_7386379e55b240fd864ea942100c41b0.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdGlueV9tY2VfcG9wdXAuanM7L3VtYnJhY29fY2xpZW50L3RpbnltY2UzL3V0aWxzL21jdGFicy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZm9ybV91dGlscy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvdmFsaWRhdGUuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_11bcc676818943709192bc9aab3a4f2e.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/tinymce3/tiny_mce_popup.js" />
+      <file name="/umbraco_client/tinymce3/utils/mctabs.js" />
+      <file name="/umbraco_client/tinymce3/utils/form_utils.js" />
+      <file name="/umbraco_client/tinymce3/utils/validate.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_af5bf102152b4d6ea658591c27abbfbe.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_06aac362f4404a0da26d0c4a76e1b308.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_e3bc674c2d8d4f2a89fd01f965eadf7b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_5ea07422ff4845e9972e16f2c15a3ece.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9Gb2xkZXJCcm93c2VyL0Nzcy9mb2xkZXJicm93c2VyLmNzczsvdW1icmFjb19jbGllbnQvQ29udGV4dE1lbnUvQ3NzL2pxdWVyeS5jb250ZXh0TWVudS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_c03ecb802b9d4e2d94873713434bdeb7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC91aS9iYXNlMi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC91aS9rbm9ja291dC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9Gb2xkZXJCcm93c2VyL2pzL2ZvbGRlcmJyb3dzZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_c7c814b13fc8490d8643de54468ff100.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_d446bf4e0fc84b0ba8d5b667d3923f8c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_3c645f4bbf084b5a9d3058f18e8d6c34.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjby9jc3MvdW1icmFjb0d1aS5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_89d8eb28d6174676b7f10c4cb94ae946.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco/css/umbracoGui.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmJhLWJicS5taW4uanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL2pxdWVyeS5zaW1wbGVtb2RhbC4xLjQuMS5jdXN0b20uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy9VbWJyYWNvU3BlZWNoQnViYmxlQmFja2VuZC5qczsvdW1icmFjby9qcy9ndWlGdW5jdGlvbnMuanM7L3VtYnJhY28vU2VhcmNoL3F1aWNrU2VhcmNoLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5LmF1dG9jb21wbGV0ZS5qczsvdW1icmFjb19jbGllbnQvdWkvalF1ZXJ5V3Jlc2l6ZS5qczsvdW1icmFjby9qcy9sYW5ndWFnZS5hc3B4Oy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_a8f031ef30c34606a846d115d0657ef9.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.ba-bbq.min.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/HistoryManager.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/modal/jquery.simplemodal.1.4.1.custom.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco/js/UmbracoSpeechBubbleBackend.js" />
+      <file name="/umbraco/js/guiFunctions.js" />
+      <file name="/umbraco/Search/quickSearch.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.autocomplete.js" />
+      <file name="/umbraco_client/ui/jQueryWresize.js" />
+      <file name="/umbraco/js/language.aspx" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_75883fa24e354183a7f13a4b1fdc764b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/DateTimePicker/datetimepicker.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L01hc2tlZElucHV0L2pxdWVyeS5tYXNrZWRpbnB1dC0xLjMubWluLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdGltZXBpY2tlci5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_9560dd699e96460285a1e7ca6d92ac33.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/MaskedInput/jquery.maskedinput-1.3.min.js" />
+      <file name="/umbraco_client/DateTimePicker/umbDateTimePicker.js" />
+      <file name="/umbraco_client/DateTimePicker/timepicker.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_fe2ae43260604be7b8169cdce54f5ae2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_ed1e2a4b471f41c2bb54fcd08f4bb0fe.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_c7f38023154d4325b0bb3b5bb5e769bb.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9wYXNzd29yZFN0cmVuZ3RoL3Bhc3N3b3Jkc3RyZW5ndGguanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_3f1d33a37a0145f684fbd30a993e6da4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/passwordStrength/passwordstrength.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvanMvZm9sZGVyYnJvd3Nlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_ca31fa44f2154c9397fd4a8e0c2b1aa8.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9Db250ZXh0TWVudS9Dc3MvanF1ZXJ5LmNvbnRleHRNZW51LmNzczsvdW1icmFjb19jbGllbnQvRm9sZGVyQnJvd3Nlci9Dc3MvZm9sZGVyYnJvd3Nlci5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_0ccce45bbb7c47808df63caa1348cb08.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOw" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_d385a412e850498191b170424e739aaf.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_1a055058a85e4b01ba3f95c8b7a2d0dd.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczs" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_094d3b7dad294f3c94d70978f2c7cbda.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0Nzcy9qcXVlcnkuY29udGV4dE1lbnUuY3NzOy91bWJyYWNvX2NsaWVudC9Gb2xkZXJCcm93c2VyL0Nzcy9mb2xkZXJicm93c2VyLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_72605206f1ed47739fe5aee72d1904b5.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvanMvZm9sZGVyYnJvd3Nlci5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_a05b0a7d88454d8d8b2637c9e339fe68.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7" file="C:\Users\Craig\Documents\umbracoDevelopment\uMediaPicker\uMediaPicker\App_Data\TEMP\ClientDependency\1_3f59dddef48c42ed944f49996439b22d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+    </files>
+  </item>
+</map>
